@@ -6,7 +6,7 @@ With over 11 years of experience in software industry, I've had the opportunity 
 
 # 🚀 Expertise
 
-My main focus is back-end development, where I specialize in Java for the web. I have extensive knowledge of Java, Spring and JavaScript. </br>
+My main focus is back-end development, where I specialize in Java for web. I have extensive knowledge of Java, Spring and JavaScript. </br>
 I love working on the back end because it allows me to combine my problem solving skills with creative solutions to deliver the best possible resolution.
 
 # 💻 Tech Stack
