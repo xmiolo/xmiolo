@@ -7,7 +7,7 @@ With over 11 years of experience in software industry, I've had the opportunity 
 # 🚀 Expertise
 
 My main focus is back-end development, where I specialize in Java for web. I have extensive knowledge of Java, Spring and JavaScript. </br>
-I love working on the back end because it allows me to combine my problem solving skills with creative solutions to deliver the best possible resolution.
+I love working on back-end because it allows me to combine my problem solving skills with creative solutions to deliver the best possible resolution.
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%2335495e.svg?style=for-the-badge&logo=spring&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
